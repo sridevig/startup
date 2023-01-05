@@ -1,0 +1,4 @@
+var t : number =1;
+var isvalid : boolean = true;
+if(isvalid)
+	alert("isvalid"+isvalid);
